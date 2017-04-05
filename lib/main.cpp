@@ -137,4 +137,5 @@ int main(int argc, char *argv[]) {
 
     // run code
     sm.run(code);
+    getchar();
 }
